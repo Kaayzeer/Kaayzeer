@@ -2,15 +2,14 @@
 
 ### Get to know me
 
-- 🔭 I’m currently working on a schoolproject
-- 🌱 I’m currently learning React
-- 🤔 I’m currently looking for an inernship in my education
+- 🔭 I´m currently updating my portfolio
+- 🌱 Right now I´m also currently @ my internship 
 
 
-My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
+<!-- My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
 
 
-Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.surge.sh)
+Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.surge.sh) -->
 
 
 
@@ -18,7 +17,8 @@ Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.s
 
 ## Languages
 
-- JAVASCRIPT
+- Javascript
+- Typescript
 - React.JS
 - HTML5
 - CSS3
