@@ -2,8 +2,8 @@
 
 ### Get to know me
 
-- 🔭 I´m currently updating my portfolio
-- 🌱 Right now I´m also currently @ my internship 
+- 🔭 I´m currently consulting
+- 🌱 Right now I´m also currently updating my portfolio
 
 
 <!-- My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
