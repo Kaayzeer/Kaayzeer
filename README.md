@@ -13,7 +13,7 @@ In my free time, I enjoy contributing to open-source projects and participating 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>CSS3
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/> </a>JavaScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a>React.js
-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> Postman
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="typescript" width="40" height="40"/> </a>Node.js
 - <img src="https://user-images.githubusercontent.com/18538595/198822959-4cb3c501-3aa2-4797-a1d1-1163189b0667.svg" alt="typescript" width="40" height="40"/> </a>Git
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="typescript" width="40" height="40"/> </a>Figma
@@ -26,7 +26,7 @@ In my free time, I enjoy contributing to open-source projects and participating 
  
 ### What is in the scope right now?
 - 🔭 I’m working on rebuilding my personal portfolio
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js, Advanced Typescript, Advanced Redux
 
 ### Whant me to create you a project?
 - 💬 What can i do for you?
