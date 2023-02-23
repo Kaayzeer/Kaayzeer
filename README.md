@@ -1,25 +1,41 @@
+# Hi there, I am Nikolas Rosinelli
+### Front-end Developer 
+I have a deep love for code and a passion for creating cutting-edge digital experiences. My expertise lies in HTML/CSS and JavaScript frameworks such as React and Redux, but I am constantly exploring new technologies to expand my skill set. Currently, I am also taking an online course on Node through Udemy to further broaden my knowledge.
+
+I am dedicated to staying up-to-date on the latest industry trends. Whether working independently or as part of a team, I always strive to create high-quality, user-centered solutions.
+
+My ultimate goal is to become a certified full-stack developer and to continue improving my coding skills. I believe that the field of technology is constantly evolving, and it is important to stay ahead of the curve in order to deliver the best possible outcomes for clients.
+
+In my free time, I enjoy contributing to open-source projects and participating in hackathons. I am a firm believer in the power of collaboration and I value the opportunity to learn from others in the tech community. With my technical skills and passion for coding, I am confident in my ability to bring innovative solutions to any project.
+
+### Languages and tools
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>CSS3
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/> </a>JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a>React.js
+- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="typescript" width="40" height="40"/> </a>Node.js
+- <img src="https://user-images.githubusercontent.com/18538595/198822959-4cb3c501-3aa2-4797-a1d1-1163189b0667.svg" alt="typescript" width="40" height="40"/> </a>Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="typescript" width="40" height="40"/> </a>Figma
+
+
+
+### I Love
+ - Coding
+ - Family time
+ 
+### What is in the scope right now?
+- 🔭 I’m working on rebuilding my personal portfolio
+- 🌱 I’m currently learning React.js
+
+### Whant me to create you a project?
+- 💬 What can i do for you?
+
+
+#### You can reach me at:
+
+📫 nmrb60@gmail.com
+
 # NIKOLAS ROSINELLI 
-
-### Get to know me
-
-- 🔭 I´m currently consulting
-- 🌱 Right now I´m also currently updating my portfolio
-
-
-<!-- My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
-
-
-Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.surge.sh) -->
-
-
-
-<!-- ABOUT THE PROJECT -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
 
 ##
