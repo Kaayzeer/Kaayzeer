@@ -28,8 +28,8 @@ In my free time, I enjoy contributing to open-source projects and participating 
  - Family time
  
 ### What is in the scope right now?
-- 🔭 I’m working on rebuilding my personal portfolio
-- 🌱 I’m currently learning Node.js, Advanced Typescript, Advanced Redux
+- 🔭 I’m working on Backend development
+- 🌱 I’m currently learning C#
 
 ### Whant me to create you a project?
 - 💬 What can i do for you?
