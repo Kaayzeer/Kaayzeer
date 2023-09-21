@@ -6,7 +6,7 @@ I am dedicated to staying up-to-date on the latest industry trends. Whether work
 
 My ultimate goal is to become a certified full-stack developer and to continue improving my coding skills. I believe that the field of technology is constantly evolving, and it is important to stay ahead of the curve in order to deliver the best possible outcomes for clients.
 
-In my free time, I enjoy contributing to open-source projects and participating in hackathons. I am a firm believer in the power of collaboration and I value the opportunity to learn from others in the tech community. With my technical skills and passion for coding, I am confident in my ability to bring innovative solutions to any project.
+In my free time, I collaborate with friends in projects and Im always broadening my technical skills and passion for coding.
 
 |  Language/Tool  |  Icon  |  Description  |
 | --- | --- | --- |
