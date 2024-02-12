@@ -1,6 +1,6 @@
 # Hi there, I am Nikolas Rosinelli
 ### Front-end Developer
-I have a deep love for code and a passion for creating cutting-edge digital experiences. My expertise lies in HTML/CSS and JavaScript frameworks such as React and Redux, but I am constantly exploring new technologies to expand my skill set. Currently, I am also taking an online course on Node through Udemy to further broaden my knowledge.
+I have a deep love for code and a passion for creating cutting-edge digital experiences. My expertise lies in HTML/CSS and JavaScript frameworks such as React and Redux, but I am constantly exploring new technologies to expand my skill set. 
 
 I am dedicated to staying up-to-date on the latest industry trends. Whether working independently or as part of a team, I always strive to create high-quality, user-centered solutions.
 
